@@ -1,8 +1,10 @@
 # Project
 
 -- This repository contains all solid works file
+
+
 1.Water bottle
-![Water bottle](https://user-images.githubusercontent.com/73783374/138554604-def8abce-902f-4e9b-8bb5-ca8b25833a5d.png)
+![Water bottle](https://github.com/nileshMech/Project/blob/main/Screenshot%20(1)%20-%20Copy.png)
 
 
 2. Ball Bearing
