@@ -37,4 +37,7 @@
 
 11. Water tank
 ![Water tank](https://github.com/nileshMech/Project/blob/main/Screenshot%20(29).png)
+ 
+ 12. Clamp
+ ![Clamp](https://user-images.githubusercontent.com/73783374/138555519-fd954831-1829-4f95-822a-da194679ff1b.png)
 
