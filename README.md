@@ -35,3 +35,6 @@
 10.Universal Coupling
 ![Universal Coupling](https://github.com/nileshMech/Project/blob/main/Screenshot%20(10).png)
 
+11. Water tank
+![Water tank](https://github.com/nileshMech/Project/blob/main/Screenshot%20(29).png)
+
